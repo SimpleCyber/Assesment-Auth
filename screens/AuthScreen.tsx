@@ -59,7 +59,10 @@ const AuthScreen: React.FC = () => {
       <ScrollView contentContainerStyle={styles.scrollContainer}>
         <View style={styles.logoContainer}>
           <View style={styles.logoCircle}>
-            <Text style={styles.logoText}>Auth</Text>
+            <Image 
+              source={require('../assets/icon.png')}
+              
+            />
           </View>
         </View>
         

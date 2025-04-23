@@ -8,8 +8,8 @@
 
 | Splash Screen | Login Page | Loading Screen | Home Page |
 |:-------------:|:----------:|:--------------:|:---------:|
-| ![](../assets/images/Expo.jpg) | ![](../assets/images/LoginPage.jpg) | ![](../assets/images/Loading%20Screen.jpg) | ![](../assets/images/Home%20page.jpg) |
-| **Expo.jpg** | **LoginPage.jpg** | **Loading Screen.jpg** | **Home page.jpg** |
+| ![](https://github.com/SimpleCyber/Assesment-Auth/blob/main/assets/Images/Expo.jpg) | ![](https://github.com/SimpleCyber/Assesment-Auth/blob/main/assets/Images/Home%20page.jpg) | ![](https://github.com/SimpleCyber/Assesment-Auth/blob/main/assets/Images/Loading%20Screen.jpg) | ![](https://github.com/SimpleCyber/Assesment-Auth/blob/main/assets/Images/LoginPage.jpg) |
+| **Expo.jpg** |  **Home page.jpg**  | **Loading Screen.jpg** | **LoginPage.jpg** |
 
 ---
 

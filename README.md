@@ -8,7 +8,7 @@
 
 | Splash Screen | Login Page | Loading Screen | Home Page |
 |:-------------:|:----------:|:--------------:|:---------:|
-| ![](./assets/images/Expo.jpg) | ![](./assets/images/LoginPage.jpg) | ![](./assets/images/Loading%20Screen.jpg) | ![](./assets/images/Home%20page.jpg) |
+| ![](../assets/images/Expo.jpg) | ![](../assets/images/LoginPage.jpg) | ![](../assets/images/Loading%20Screen.jpg) | ![](../assets/images/Home%20page.jpg) |
 | **Expo.jpg** | **LoginPage.jpg** | **Loading Screen.jpg** | **Home page.jpg** |
 
 ---
